@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>About</class>
+ <widget class="QDialog" name="About">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>450</width>
+    <height>222</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>-30</y>
+     <width>401</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Эту программу делал Шурик, и помогал делать Кондрашов Сергей Сергеевич&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Все права не защищены&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Создатель: ЗАО &amp;quot;В Гостях у Шурика&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Издатель: ОАО &amp;quot;Издательство дурацких программ&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Версия 2.0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>190</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
